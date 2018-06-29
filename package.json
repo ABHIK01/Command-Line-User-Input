@@ -1,0 +1,15 @@
+{
+  "name": "user-input",
+  "version": "1.0.0",
+  "description": "Command",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Abhik Samanta",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.0",
+    "prompt": "^1.0.0"
+  }
+}
